@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{color: blue;
 background: red;
 font-size: 18px;
@@ -22,4 +23,26 @@ font-family: Helvetica;}
       background: red;
       color: white;
     }
+=======
+body {
+ text-align: center;
+ background: url("http://dash.ga.co/assets/anna-bg.png");
+ background-size: cover;
+ background-position: center;
+ color: white;
+ font-family: helvetica;
+ }
+ p {
+ font-size: 60px;
+ }
+ input {
+ border: 0;
+ padding: 10px;
+ font-size: 60px;
+ }
+ input[type="submit"] {
+ background: red;
+ color: white;
+ }
+>>>>>>> origin/master
   
