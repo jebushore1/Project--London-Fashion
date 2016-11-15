@@ -6,3 +6,6 @@ ul.nav li{
     display: inline-block;
     padding-right: 100px;
 }
+.picture{width:600px; height:300px; }
+.center{text-align: center;}
+.bank{width:500px; height:300px}
