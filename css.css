@@ -1,6 +1,5 @@
 * {
-  font-family: 'Helvetica', sans-serif;
-  background-color: pink;
+  font-family: 'Lucida Calligraphy', sans-serif;
 }
 ul.nav li{
     display: inline-block;
@@ -13,3 +12,5 @@ ul.nav li{
 p{text-anchor: top;}
 .shoreditch{width:200px; height:200px; margin-right: 100px}
 .chelsea{width:200px; height:150px; margin-right: 100px}
+.about{width:400px; height:250px; margin-right: 100px}
+
